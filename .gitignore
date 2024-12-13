@@ -330,3 +330,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/node,react,jetbrains+all,visualstudiocode,macos,windows
+
+# drow.io back-ups
+*.bkp
+
+# MS Office
